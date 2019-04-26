@@ -1,0 +1,19 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Xhiomi",
+  "license": "ISC",
+  "devDependencies": {
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10",
+    "styled-components": "^4.2.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
